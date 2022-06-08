@@ -1,5 +1,8 @@
 ### Heyy! I'm Pedro =)
 
+- 🎭 “dreams come true when you don’t sleep.” <br>
+- 🔭 looking for a job! <br>
+
 <div align="center">
   <a href="https://github.com/augustopdro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustopdro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
